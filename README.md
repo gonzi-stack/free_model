@@ -14,6 +14,9 @@
    ```bash
    python train.py
    ```
+   ```info
+   En el archivo train.py verás un True o False, ponerlo en False si es el primer entrenamiento del modelo, ponerlo en True para refinar los datos ya entrenados
+   ```
 
 4. **Genera texto con el modelo entrenado**
    ```bash
